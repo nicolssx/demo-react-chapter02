@@ -1,0 +1,17 @@
+{
+  "name": "01.jsx",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn parcel index.html"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-react": "^7.9.4",
+    "parcel": "^2.0.0-alpha.3.2"
+  },
+  "dependencies": {}
+}

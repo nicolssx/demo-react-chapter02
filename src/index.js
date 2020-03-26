@@ -1,11 +1,4 @@
-import React from './React'
-const a={
-  color: 'red'
-}
-const App = (
-    <div style={a}>
-      <p>Hello, <span>world</span></p>
-      <p>Date: {new Date().toLocaleTimeString()}</p>
-    </div>
-)
-React.render(App, document.getElementById('root'))
+import React, {Component} from './React'
+import Home from './pages/home'
+
+React.render(<Home />, document.getElementById('root'))

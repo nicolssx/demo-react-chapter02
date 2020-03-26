@@ -1,6 +1,6 @@
 ### 项目说明
 
-JSX和虚拟DOM：react的基础实现
+react的基础实现：组件与生命周期
 
 安装依赖：`yarn install` `npm install`
 

@@ -2,9 +2,9 @@
 
 JSX和虚拟DOM：react的基础实现
 
-安装依赖：```yarn install``` ```npm install```
+安装依赖：`yarn install` `npm install`
 
-启动项目：```npm run start``
+启动项目：`npm run start`
 
 #### 工具
 [parcel-bundler](https://github.com/parcel-bundler/parcel#readme)，零配置打包工具
